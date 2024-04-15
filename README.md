@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through mail at ayushsingh001452@gmail.com
 
