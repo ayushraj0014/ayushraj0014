@@ -7,7 +7,11 @@ DSA and Web Development <br><br>
 <b>🤝 I’m looking to collaborate on: </b> <br> 
 Full Stack Projects <br><br>
 
+<hr>
 
+[![](https://visitcount.itsvg.in/api?id=ayushraj0014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<hr>
 
 <b><h2>🌐 Socials:</h2></b>
 
@@ -37,6 +41,3 @@ Full Stack Projects <br><br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ayushraj0014&theme=radical)
 
-<hr>
-
-[![](https://visitcount.itsvg.in/api?id=ayushraj0014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
